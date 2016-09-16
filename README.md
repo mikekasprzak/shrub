@@ -15,6 +15,28 @@ Shrub is designed and optimized for the above.
 * An ES2015 toolchain.
 * It's being developed using Buble and RollupJS (best), but may work with Babel JS.
 
+# SHRUB DESIGN
+Shrub provides the following:
+
+* Posts/Pages/Custom nodes
+* History of edits and changes
+* Comments
+* User Accounts
+* Notifications
+* Messaging
 
 # SHRUB PLUGINS
-* ShrubMill - Calender, schedules, and automation
+Advanced features outside the scope of a CMS are optionally
+
+* ShrubMill - Schedules and Automation
+
+Plugins share a similar directory structure to Shrub. To install a plugin, simply copy the unique contents in to your Shrub folder. Server side will be handled automatically.
+
+Client side however, you will need to make the following
+
+[Insert Change Here]
+
+
+# SHRUB HISTORY
+
+Shrub was originally designed and created for Jammer and Ludum Dare game jam communities.
