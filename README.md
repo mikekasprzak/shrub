@@ -13,7 +13,8 @@ Shrub is designed and optimized for the above.
 
 ### Building the Client code Requires:
 * An ES2015 toolchain.
-* It's being developed using Buble and RollupJS (best), but may work with Babel JS.
+
+Shrub is developed using Buble and RollupJS (for best performance), but may work with Babel JS.
 
 # SHRUB DESIGN
 Shrub provides the following:
@@ -26,7 +27,7 @@ Shrub provides the following:
 * Messaging
 
 # SHRUB PLUGINS
-Advanced features outside the scope of a CMS are optionally
+Advanced features outside the scope of a CMS are optionally available as plugins.
 
 * ShrubMill - Schedules and Automation
 
